@@ -13,7 +13,7 @@ labels:
 app: k8s-webapp
 spec:
 containers: - name: webapp
-image: rashmi705/k8s-webapp:v1
+image: parthdhanaba/k8s-webapp:v1
 ports: - containerPort: 80
 
 Deployment.yaml
